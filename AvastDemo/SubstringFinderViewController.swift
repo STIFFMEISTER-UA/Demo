@@ -68,6 +68,6 @@ private extension SubstringFinderViewController {
         
         parseButton.setAttributedTitle(attributedTitle, for: .normal)
         parseButton.backgroundColor = .orange
-        parseButton.layer.cornerRadius = 8
+        parseButton.layer.cornerRadius = 10
     }
 }
